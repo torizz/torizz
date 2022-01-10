@@ -1,6 +1,9 @@
-### Hi there! Welcome to my GitHub ! 👋
+### Hi there! 
+
+My name is Victoria and I'm 
 
 <!--
+Welcome to my GitHub ! 👋
 **torizz/torizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
