@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! Welcome to my GitHub ![github 256x250](https://user-images.githubusercontent.com/93610195/148722313-60caafec-6978-4b5a-9bee-4b240254d40c.png)
+ 👋
 
 <!--
 **torizz/torizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
