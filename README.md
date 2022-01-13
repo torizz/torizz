@@ -1,4 +1,7 @@
-### Hi there! It's nice to meet you! 
+### Hi there! Welcome to my GitHub💻
+
+
+📈📊📸�💻 
 
 My name is Victoria and I'm 
 
