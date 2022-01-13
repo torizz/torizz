@@ -1,5 +1,5 @@
-### Hi there👋 
-#### Welcome to my GitHub! 💻
+### Hi, I'm Victoria! 👋 
+#### Welcome to my GitHub 💻
 
 
 📈
