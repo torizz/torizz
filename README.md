@@ -1,4 +1,4 @@
-### Hi, I'm Victoria! It's nice to meet you!
+### Hi there, I'm Victoria! It's nice to meet you👋 
 
 * I'm in my first year of university, studying Computing and Financial Management👩‍💻📈
 
