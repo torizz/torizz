@@ -7,9 +7,7 @@
 
 
 
-* Connect with me!
-
-<a href = "https://www.linkedin.com/in/victoria-zhao-/">
+* Connect with me! <a href = "https://www.linkedin.com/in/victoria-zhao-/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "[LinkedIn](https://www.linkedin.com/in/victoria-zhao-/)" >
 </a>
 
