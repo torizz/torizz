@@ -12,7 +12,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "[LinkedIn](https://www.linkedin.com/in/victoria-zhao-/)" >
 </a>
 <a href = "mailto:v3zhao@uwaterloo.ca">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "v3zhao@uwaterloo.ca">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "mailto:v3zhao@uwaterloo.ca">
+</a>
+<a href = "https://www.facebook.com/victoriazhaooo/">
+<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "https://www.facebook.com/victoriazhaooo/">
 </a>
 
 📈 
