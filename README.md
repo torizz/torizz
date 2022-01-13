@@ -3,6 +3,7 @@
 * 👩‍💻 I'm in my first year of university, studying Computing and Financial Management 📊 
 * test
 * 📸 I love taking photos and listening to different genres of music 🎧
+* ⚡ A fun fact about me is that I dragon boat! 🐉 🛶
 
 
 
@@ -19,15 +20,17 @@
 <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "https://www.facebook.com/victoriazhaooo/">
 </a>
 
-📈 
 
-
-💻
 
 
 <!--
 ### Hi, I'm Victoria! 👋 
 #### Welcome to my GitHub 💻
+
+ 
+📈
+
+💻
 
 Welcome to my GitHub ! 👋
 **torizz/torizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
