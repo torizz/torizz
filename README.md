@@ -1,5 +1,5 @@
 ### Hi there, I'm Victoria! 👋 
-<hr>
+---
 * 👩‍💻 I'm in my first year of university, studying Computing and Financial Management 📊 
 * test
 
