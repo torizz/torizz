@@ -10,7 +10,7 @@
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/victoria-zhao-/)!
 
 <a href = "https://www.linkedin.com/in/victoria-zhao-/">
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}">
+<img src="/Users/victoriazhao/Downloads/linkedin.svg" alt = "[LinkedIn](https://www.linkedin.com/in/victoria-zhao-/)" height="32" width="32">
 </a>
 
 📈 
