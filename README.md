@@ -1,6 +1,6 @@
 ### Hi there, I'm Victoria! 👋 
 
-* 👩‍💻📈 I'm in my first year of university, studying Computing and Financial Management
+* 👩‍💻 I'm in my first year of university, studying Computing and Financial Management 📊 
 * test
 
 
@@ -10,7 +10,7 @@
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/victoria-zhao-/)!
 
 
-📊
+📈 
 📸
 
 💻
