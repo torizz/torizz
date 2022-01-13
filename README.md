@@ -1,6 +1,7 @@
 ### Hi there, I'm Victoria! 👋 
 
 * 👩‍💻 I'm in my first year of university, studying Computing and Financial Management 📈
+* g
 
 I'm from Canada
 
