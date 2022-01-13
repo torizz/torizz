@@ -1,4 +1,4 @@
-### hello! welcome to my GitHub! 👋 
+### Hi, I'm Victoria 👋 It's nice to meet you!
 
 My name is Victoria and I'm currently in my first year of university, studying Computing and Financial Management👩‍💻📈
 
