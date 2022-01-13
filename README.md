@@ -2,7 +2,7 @@
 ---
 * 👩‍💻 I'm in my first year of university, studying Computing and Financial Management 📊 
 * test
-* 🎧 I love listening to music and taking photos 📸
+* 🎧 I love listening to music and practicing photography 📸
 
 
 
