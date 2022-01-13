@@ -1,6 +1,7 @@
 ### hello! welcome to my GitHub! 👋 
 
 My name is Victoria and I'm currently in my first year of university, studying Computing and Financial Management👩‍💻📈
+
 I'm from Canada
 
 
