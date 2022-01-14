@@ -1,5 +1,5 @@
 ### Hi there, I'm Victoria! 👋 
-
+---
 * 👩‍💻 I'm a first year Computing and Financial Management student 📈 
 * 💻 I'm currently learning C 📚
 * 📸 Taking photos and listening to different genres of music in my free time 🎧
