@@ -1,8 +1,8 @@
 ### Hi there, I'm Victoria! 👋 
 ---
-* 👩‍💻 I'm in my first year of university, studying Computing and Financial Management 📈 
-* test
-* 📸 I love taking photos and listening to different genres of music 🎧
+* 👩‍💻 I'm in first year, studying Computing and Financial Management 📈 
+* 💻 I'm currently learning C 📚
+* 📸 Taking photos and listening to different genres of music in my free time 🎧
 * ⚡ A fun fact about me is that I dragon boat! 🐉 🛶
 
 
