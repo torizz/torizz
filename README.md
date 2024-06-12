@@ -1,6 +1,6 @@
 ### Hi there, I'm Victoria! 👋 
 ---
-* 👩‍💻 I'm a second year Computing and Financial Management student 📈 
+* 👩‍💻 I'm a third year Computer Science student 📈 
 * 💻 I'm currently learning C++ and Bash 📚
 * 📸 Taking photos and listening to different genres of music in my free time 🎧
 * ⚡ A fun fact about me is that I dragon boat! 🐉 🛶
