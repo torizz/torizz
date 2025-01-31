@@ -1,7 +1,7 @@
 ### Hi there, I'm Victoria! 👋 
 ---
-* 👩‍💻 I'm a third year Computer Science student 📈 
-* 💻 I'm currently learning C++ and Bash 📚
+* 👩‍💻 I'm a fourth year Computer Science student 📈 
+* 💻 I'm currently learning about distributed computing and AI 📚
 * 📸 Taking photos and listening to different genres of music in my free time 🎧
 * ⚡ A fun fact about me is that I dragon boat! 🐉 🛶
 
